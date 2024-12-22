@@ -38,3 +38,15 @@
 - implement logging 
 - implement resource create and read 
 
+## additional stuff 
+```bash
+# set GOBIN either via 
+go end GOBIN # check if configured OR override via 
+
+# ~/.terraformrc
+cat ~/.terraformrc 
+ls 
+
+
+
+```
